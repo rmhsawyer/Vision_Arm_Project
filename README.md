@@ -33,7 +33,8 @@ Socket
 
 You also need to give USB access when connected to Dobot Magician. The project tested on Ubuntu 16.04.
 
+# Demo
 ![picture](Demo1.JPG)
-
+![picture](Demo2.JPG)
 # Copyright 
 Minghe Ren (sawyermh@bu.edu)
