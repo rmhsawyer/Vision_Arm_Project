@@ -39,7 +39,7 @@ You also need to give USB access when connected to Dobot Magician. The project t
 
 ![alt text](https://raw.githubusercontent.com/rmhsawyer/Vision_Arm_Project.git/Demo1.JPG)
 
-![alt text](https://raw.githubusercontent.com/rmhsawyer/Vision_Arm_Project/Demo1.jpg)
+![alt text](https://raw.githubusercontent.com/rmhsawyer/Vision_Arm_Project/Demo1.JPG)
 
 # Copyright 
 Minghe Ren (sawyermh@bu.edu)
