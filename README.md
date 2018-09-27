@@ -12,3 +12,27 @@ test.py -- Demo file
 python_vision -- Python API linked with main.cpp used in test.py
 
 Dobot_Control -- Collect Data using API and send data to test.py using Soket
+
+# How to run
+
+In oder to run the whole project you have to install the below environment:
+
+Python3 
+
+Opencv3
+
+Qt5
+
+Cmake
+
+Intel Realsense Library
+
+Dobot Magician API
+
+Socket
+
+You also need to give USB access when connected to Dobot Magician. The project tested on Ubuntu 16.04.
+
+
+# Copyright 
+Minghe Ren (sawyermh@bu.edu)
